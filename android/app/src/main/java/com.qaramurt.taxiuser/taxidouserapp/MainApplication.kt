@@ -1,4 +1,4 @@
-package com.taxidouserapp
+package com.qaramurt.taxiuser
 import android.content.BroadcastReceiver
 import android.content.Context
 import android.content.Intent

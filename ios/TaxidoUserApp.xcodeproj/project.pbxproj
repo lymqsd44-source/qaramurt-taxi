@@ -315,7 +315,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.taxidouserapp12;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qaramurt.taxiuser;
 				PRODUCT_NAME = TaxidoUserApp;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -344,7 +344,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.taxidouserapp12;
+				PRODUCT_BUNDLE_IDENTIFIER = com.qaramurt.taxiuser;
 				PRODUCT_NAME = TaxidoUserApp;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

@@ -1,8 +1,13 @@
 {
-  "name": "TaxidoUserApp",
-  "displayName": "TaxidoUserApp",
-    "react-native-google-mobile-ads": {
+  "name": "QaramurtTaxiUser",
+  "displayName": "Qaramurt Taxi",
+  "react-native-google-mobile-ads": {
     "android_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx",
     "ios_app_id": "ca-app-pub-xxxxxxxx~xxxxxxxx"
+  },
+  "extra": {
+    "eas": {
+      "projectId": "e02edf85-6ac8-4365-a230-e670968aee9b"
+    }
   }
 }
